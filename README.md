@@ -21,13 +21,16 @@
 
 I am a Computer Science student focused on full-stack development and applied AI.
 
-I have experience building scalable web applications using **React**, **Node.js**, and modern frontend technologies. Recently, I have been working on AI-driven solutions such as a **Player Churn Prediction System** that combines machine learning with RAG-based insights.
+I have experience building scalable web applications using **React**, **Node.js**, and modern frontend technologies, combined with practical applications of AI and data-driven solutions. I enjoy designing clean user experiences, writing efficient code, and turning ideas into impactful products.
 
-I am particularly interested in building efficient, user-focused systems and continuously expanding my skills in **software engineering** and **system design**.
 
-- 🔭 Currently working on **AI-driven web applications**
-- 🌱 Learning **System Design** & **LLM Fine-tuning**
-- 💬 Ask me about **React, Node.js, Python, AI/ML**
+
+I am particularly interested in designing efficient, user-focused systems and continuously improving my skills in **software engineering**, **system design**, and **data-driven Analysis**.
+
+- 🔭 Working on AI-driven web applications  
+- 🌱 Exploring System Design & LLM fine-tuning  
+- 📊 Interested in Data Visualization & Analysis  
+- 💬 Ask me about React, Node.js, Python, AI/ML  
 - ⚡ Fun fact: I debug faster with coffee ☕
 
 <br clear="right"/>
