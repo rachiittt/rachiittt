@@ -132,7 +132,4 @@ I am particularly interested in building efficient, user-focused systems and con
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 [![](https://visitcount.itsvg.in/api?id=rachiittt&icon=0&color=6)](https://visitcount.itsvg.in)
-
-**⭐ If you like my work, consider giving my repos a star!**
----
 </div>
