@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-# 🚀 About Me:
+# About Me:
 
 I am a Computer Science student focused on full-stack development and applied AI.
 
@@ -24,17 +24,17 @@ I have experience building scalable web applications using **React**, **Node.js*
 
 I am particularly interested in designing efficient, user-focused systems and continuously improving my skills in **software engineering**, **system design**, and **data-driven Analysis**.
 
-- 🔭 Working on AI-driven web applications  
-- 🌱 Exploring System Design & LLM fine-tuning  
-- 📊 Interested in Data Visualization & Analysis  
-- 💬 Ask me about React, Node.js, Python, AI/ML  
-- ⚡ Fun fact: I debug faster with coffee ☕
+- Working on AI-driven web applications  
+- Exploring System Design & LLM fine-tuning  
+- Interested in Data Visualization & Analysis  
+- Ask me about React, Node.js, Python, AI/ML  
+- Fun fact: I debug faster with coffee ☕
 
 <br clear="right"/>
 
 ---
 
-## 🌐 Socials:
+##  Socials:
 
 <div align="center">
 
@@ -44,11 +44,11 @@ I am particularly interested in designing efficient, user-focused systems and co
 
 </div>
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 <div align="center">
 
-### 🌐 Frontend
+###  Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -57,7 +57,7 @@ I am particularly interested in designing efficient, user-focused systems and co
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend & Database
+###  Backend & Database
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -65,11 +65,11 @@ I am particularly interested in designing efficient, user-focused systems and co
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-### 🤖 AI / ML
+###  AI / ML
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 📊 Data Analysis & Visualization
+###  Data Analysis & Visualization
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -78,7 +78,7 @@ I am particularly interested in designing efficient, user-focused systems and co
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🛠️ Tools & DevOps
+###  Tools & DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -87,7 +87,7 @@ I am particularly interested in designing efficient, user-focused systems and co
 
 </div>
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachiittt&theme=tokyonight&hide_border=true&border_radius=10&card_width=500&fire=FF6E96&ring=628fdb&currStreakLabel=628fdb"/>
@@ -97,7 +97,7 @@ I am particularly interested in designing efficient, user-focused systems and co
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachiittt&theme=tokyonight&hide_border=true&layout=compact&border_radius=10&langs_count=8"/>
 </div>
 
-## 🏅 Achievements:
+##  Achievements:
 
 <div align="center">
 
@@ -107,7 +107,7 @@ I am particularly interested in designing efficient, user-focused systems and co
 
 </div>
 
-# 📈 Contribution Graph:
+#  Contribution Graph:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachiittt&bg_color=1a1b27&color=628fdb&line=628fdb&point=ff6e96&area=true&area_color=1a1b27&hide_border=true&radius=8" width="95%"/>
@@ -115,7 +115,7 @@ I am particularly interested in designing efficient, user-focused systems and co
 
 ---
 
-### ✍️ Random Dev Quote:
+###  Random Dev Quote:
 
 <div align="center">
 
